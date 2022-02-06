@@ -1,5 +1,6 @@
 
 
+
 Course Name : Mobile Application Development
 Course Code : CSCI 4311   
 Description : Group Project
@@ -39,3 +40,10 @@ This apps will retrive a random activities from the api by clicking the button. 
 6) Run the app using the command: flutter run
 
 ## Apps Overview
+
+<img src ="image/LogIN.jfif" width ="250" height = "500">
+<img src ="image/Main.jfif" width ="250" height = "500">
+<img src ="image/SignUp.jfif" width ="250" height = "500">
+
+
+
